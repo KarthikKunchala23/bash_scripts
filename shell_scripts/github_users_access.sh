@@ -1,5 +1,16 @@
 #!/bin/bash
 
+############################
+# Author: Karthik Kunchala
+#
+# Date: 16/09/2024
+#
+# version: 0.1.0
+#
+# This script is used to list the GitHub users for mentioned organization and repo
+#
+##############################
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
